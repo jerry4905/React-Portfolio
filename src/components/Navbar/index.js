@@ -1,9 +1,8 @@
 import React from "react";
-import { Link, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 function Navbar() {
-    // console.log(useParams())
     return (
         <nav className="navbar navbar-expand-lg navbar-light">
             <Link className="navbar-brand glow" to="/" id="name">

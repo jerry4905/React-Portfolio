@@ -1,5 +1,5 @@
 import React from "react";
-import Jerry from "../../assets/Jerry.JPG"
+import Jerry from "../../assets/Jerry.jpeg"
 import "./style.css";
 
 function AboutMe() {

@@ -1,5 +1,5 @@
 import React from "react";
-import Jerry from "../../assets/Jerry.JPG"
+import Jerry from "../../assets/Jerry.jpeg"
 import github from "../../assets/github_white.png"
 import linkedin from "../../assets/linkedin_white.png"
 import "./style.css";
