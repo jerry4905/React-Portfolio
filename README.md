@@ -24,4 +24,6 @@
   ## Questions 
  For any questions, contact me at [jerry4905@yahoo.com](mailto:jerry4905@yahoo.com).
   
-  website to deployed applicaiton: https://jerry4905.github.io/React-Portfolio/
+  website to deployed applicaiton: https://jerry4905.github.io/React-Portfolio/![Deployed_App]
+  
+  (https://user-images.githubusercontent.com/81401217/133906368-7c4be91e-7268-4dda-9c33-a464b39f5857.jpg)
