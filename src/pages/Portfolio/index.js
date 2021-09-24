@@ -6,11 +6,18 @@ import workDayPlanner from "../../assets/workdayscheduler.JPG";
 import weatherDashboard from "../../assets/weather_dashboard.JPG";
 import burgerLogger from "../../assets/pointless_adventures.JPG";
 import ToDoList from "../../assets/todolist.JPG";
+import budgetTracker from "../../assets/budgetTracker.jpg";
 
 
 function Portfolio(props) {
 //   const imagePath = "./Assets/Images/"
   const projects = [
+    {
+        name: 'Budget tracker',
+        imageURL: budgetTracker,
+        appLink: "https://Rumikitum.github.io/Budget-Tracker-Profiles/",
+        githubLink: "https://github.com/Rumtikitum/Budget-Tracker-Profiles"
+    },
     {
         name: 'Password Generator',
         imageURL: passwordGenerator,
