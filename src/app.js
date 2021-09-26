@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+import "./app.css";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -10,14 +10,12 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import NoMatch from "./pages/NoMatch";
 
-
 function App() {
   return (
-    <Router basename='/'>
+    <Router basename="/">
       <div id="app">
-        
         <Wrapper>
-        <Navbar />
+          <Navbar />
           <Switch>
             <Route exact path="/" component={Home} />
             <Route exact path="/about" component={About} />
