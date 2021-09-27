@@ -14,8 +14,8 @@ function Portfolio(props) {
     {
       name: "Budget tracker",
       imageURL: budgetTracker,
-      appLink: "https://Rumikitum.github.io/Budget-Tracker-Profiles/",
-      githubLink: "https://github.com/Rumtikitum/Budget-Tracker-Profiles",
+      appLink: "https://budgetreview.herokuapp.com/#budget",
+      githubLink: "https://github.com/jerry4905/Budget-Tracker-Profiles",
     },
     {
       name: "Password Generator",
