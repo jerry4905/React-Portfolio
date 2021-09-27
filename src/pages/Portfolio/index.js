@@ -1,11 +1,11 @@
 import React from "react";
 import Project from "../../components/Project";
 import passwordGenerator from "../../assets/password_generator.jpg";
-import codingQuiz from "../../assets/TimedQuiz.jpg";
-import workDayPlanner from "../../assets/workdayscheduler.jpg";
-import weatherDashboard from "../../assets/weather_dashboard.jpg";
-import burgerLogger from "../../assets/pointless_adventures.jpg";
-import ToDoList from "../../assets/todolist.jpg";
+import codingQuiz from "../../assets/TimedQuiz.JPG";
+import workDayPlanner from "../../assets/workdayscheduler.JPG";
+import weatherDashboard from "../../assets/weather_dashboard.JPG";
+import burgerLogger from "../../assets/pointless_adventures.JPG";
+import ToDoList from "../../assets/todolist.JPG";
 import budgetTracker from "../../assets/budgetTracker.jpg";
 
 function Portfolio(props) {
